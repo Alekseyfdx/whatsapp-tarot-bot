@@ -1,0 +1,8 @@
+{
+  "name": "Lior - AI Homework Helper",
+  "description": "Lior is a WhatsApp AI bot available via phone number. Features vision analysis, voice interaction, image generation, and a guided onboarding process for students.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
